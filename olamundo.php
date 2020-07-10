@@ -1,4 +1,4 @@
 <?php
-echo "este é um teste";
+echo "este é não é um teste";
 ?>
 
